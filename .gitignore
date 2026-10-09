@@ -1,0 +1,11 @@
+# Bỏ qua tất cả mọi thứ
+*
+
+# Giữ lại cấu trúc thư mục
+!*/
+
+# Chỉ cho phép theo dõi các file .py
+!*.py
+
+# Giữ lại chính file .gitignore
+!.gitignore
