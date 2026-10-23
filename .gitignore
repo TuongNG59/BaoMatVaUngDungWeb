@@ -18,3 +18,4 @@ __pycache__/
 *.pem
 *.p12
 *.pfx
+venv/Lib/site-packages/pip/__init__.py

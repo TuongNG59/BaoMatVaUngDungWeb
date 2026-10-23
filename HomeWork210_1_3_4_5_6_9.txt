@@ -1,0 +1,69 @@
+1.
+IRXUVFRUHDQGVHYHQBHDUVDJR
+k = 3
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+X Y Z A B C D E F G H I J K L M N O P U R S T U V W
+
+IRXUVFRUHDQGVHYHQBHDUVDJR ==> FOURSCOREANDSEVENYEARSAGO
+
+3. ‘enemy coming’
+khóa hoán vị K là: IAUTMOCSNREBDLHVWYFPZJXKGQ
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+I A U T M O C S N R E B D L H V W Y F P Z J X K G Q
+
+MLMDG UHDNLC
+
+4.‘explanation’ 
+phương pháp Vigenere, từ khóa là LEG
+
+Lặp lại khóa bằng độ dài bản rõ: LEGLEGLEGLE
+
+
+5. Mã hóa thông điệp sau bằng phương pháp hoán vị:
+
+we are all together
+
+biết khóa 24153
+
+
+WEAREALLTOGETHER
+
+WEARE
+
+ALLTO
+
+GETHE
+
+RABCD
+
+
+24153: 
+WEARE 
+ALLTO 
+GETHE 
+RABCD
+
+ALTBWAGREOEDELEARTHC
+
+
+6. Phá mã Ceasar:
+
+CSYEVIXIVQMREXIH
+
+
+9. Phá mã Vigenere
+
+bản rõ: networksecurity
+
+bản mã: PVRLHFMJCRNFKKW
+
+tìm khóa K:
+
+
+
+
+
+
+
