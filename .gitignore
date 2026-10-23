@@ -1,34 +1,20 @@
-# Bỏ qua tất cả mọi thứ
-*
-
-# Giữ lại cấu trúc thư mục
-!*/
-
-# Chỉ cho phép theo dõi các file .py
-!*.py
-
-*.pdf
-
-# Giữ lại chính file .gitignore
-!.gitignore
-
-# Môi trường ảo Python
+# 1. Môi trường ảo Python (QUAN TRỌNG NHẤT - Chặn toàn bộ thư viện)
 venv/
 .venv/
 env/
 ENV/
 
-# Các file cache biên dịch tự động của Python
+# 2. Các file cache biên dịch tự động của Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# File cấu hình của trình soạn thảo (VS Code, PyCharm)
+# 3. File cấu hình của trình soạn thảo (VS Code, PyCharm)
 .vscode/
 .idea/
 
-# Các file lưu trữ khóa bí mật / tạm thời
+# 4. Các file chứa khóa bí mật (Không push private key lên GitHub)
 *.pem
 *.p12
 *.pfx
