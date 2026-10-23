@@ -7,5 +7,28 @@
 # Chỉ cho phép theo dõi các file .py
 !*.py
 
+*.pdf
+
 # Giữ lại chính file .gitignore
 !.gitignore
+
+# Môi trường ảo Python
+venv/
+.venv/
+env/
+ENV/
+
+# Các file cache biên dịch tự động của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File cấu hình của trình soạn thảo (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Các file lưu trữ khóa bí mật / tạm thời
+*.pem
+*.p12
+*.pfx
