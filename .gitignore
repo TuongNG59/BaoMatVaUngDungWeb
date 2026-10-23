@@ -19,3 +19,7 @@ __pycache__/
 *.p12
 *.pfx
 venv/Lib/site-packages/pip/__init__.py
+venv/Lib/site-packages/pip/__init__.py
+/venv/Lib/site-packages/pip
+venv/Lib/site-packages/pip/__main__.py
+venv/Lib/site-packages/pip/__pip-runner__.py
